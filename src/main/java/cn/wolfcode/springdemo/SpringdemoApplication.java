@@ -15,6 +15,7 @@ public class SpringdemoApplication {
 		//555555
 		//6666
 		//666666
+		System.out.println(6666);
 
 	}
 }
