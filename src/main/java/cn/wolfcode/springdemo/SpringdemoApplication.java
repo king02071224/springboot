@@ -10,5 +10,7 @@ public class SpringdemoApplication {
 		SpringApplication.run(SpringdemoApplication.class, args);
 		System.out.println("添加打印功能");
 		System.out.println("king分支");
+		//4444
+
 	}
 }
