@@ -14,7 +14,7 @@ public class SpringdemoApplication {
 		//444444风华高科积分兑换
 		//555555
 		//6666
-		//666666
+		//666666吞吞吐吐
 
 	}
 }
